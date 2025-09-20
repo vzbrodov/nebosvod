@@ -1,5 +1,5 @@
 # Nebosvod
-Nebosvod (which means "sky vault" or "firmament" in Russian) is a desktop application that visualizes artificial night sky brightness data. It helps stargazers, astrophotographers, and outdoor enthusiasts find locations with dark skies for observing the stars and the Milky Way.
+Nebosvod (which means "sky vault" or "firmament" in Russian) is a desktop application that provides an interactive map of global light pollution data. By leveraging NASA's VIIRS nighttime imagery, it helps amateur astronomers, astrophotographers, and nature lovers discover the darkest spots near them for unparalleled night sky observation and photography.
 
 Future key features:
 
@@ -8,3 +8,6 @@ Future key features:
 - 📍 Location search and darkness rating
 
 - 🌙 Moon phase calendar and astronomical event forecasts
+
+
+Tech Stack: Python, PyQt, Folium, FastAPI, Rasterio
